@@ -1,6 +1,26 @@
-length 1 =parseInt(document.getElementById('length 1').value;
-length 2 =parseInt(document.getElementById('length 2').value;
-length 3 =parseInt(document.getElementById('length 3').value;
-if (length 1 === length 2 && length 1 === length 3) {
-  answer.textcontent =("All sides are equal:Equlateral");
+function findOut() {
+  var sideC =prompt("Enter sideA")
+  var sideB =prompt("Enter sideB")
+  var sideC =prompt("Enter sideC")
+}
+if (sideA === sideB && sideA === sideC) {
+alert("Equilateral")
+}
+else if (sideA === sideB && sideB !== sideC) {
+alert("isorceless")
+}
+else if (sideB === sideC && sideB !== sideA) {
+alert("isorceless")
+}
+else if (sideC === sideB && sideC !== sideA) {
+alert("isorceless")
+}
+else if (sideA !== sideB && sideA !== sideC) {
+alert("scalene")
+}
+else if (sideB !== sidec && sideC !== sideA) {
+alert("scalene")
+}
+else {
+alert("not a triangle")
 }
