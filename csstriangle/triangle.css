@@ -2,9 +2,6 @@ h1 {
   text-align: center;
   font-size: 85px;
   color: green;
-  border-left: 2px solid red;
-  padding: 6px;
-  margin-bottom: 20px;
 }
 html {
   background-color: wheat;
