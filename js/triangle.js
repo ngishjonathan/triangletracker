@@ -24,4 +24,4 @@ alert("scalene");
 else {
 alert("not a triangle");
 }
-};
+}
