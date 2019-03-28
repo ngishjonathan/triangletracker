@@ -26,6 +26,7 @@ body{
 }
 .mon{
   font-size: 45px;
+  border-radius: 40px;
 }
 .juice{
 reserved: rainbow;
